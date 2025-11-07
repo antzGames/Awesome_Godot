@@ -25,8 +25,11 @@ A curated list of awesome Godot stuff.
     
 ## Game Systems
 
+- **[ShomyKohai/quest-system](https://github.com/ShomyKohai/quest-system)** - 
+📜 A simple, powerful and modular quest system for Godot 4
 - **[peter-kish/gloot](https://github.com/peter-kish/gloot)** - A universal inventory system for the Godot game engine.
 - **[hewplayfair/tooltips-pro](https://github.com/hewplayfair/tooltips-pro)** - Advanced tooltip functionality for Godot 4.4+.
+- **[darkalardev/Godot-Tween-Orchestrator](https://github.com/darkalardev/Godot-Tween-Orchestrator)** - Tween Orchestrator is a utility designed to simplify animations in Godot.
 
 ## GUI/UI
 - **[tavurth/godot-radial-menu](https://github.com/tavurth/godot-radial-menu)** - A radial menu for Godot, supports Mobile & Desktop.
