@@ -21,6 +21,7 @@ A curated list of awesome Godot stuff.
 - **[bukkbeek/GodotPixelRenderer](https://github.com/bukkbeek/GodotPixelRenderer)** - Complete 3D to Pixel Toolkit [Built using Godot Engine].
 - **[scottpetrovic/mesh2motion-app](https://github.com/scottpetrovic/mesh2motion-app)** - Import a 3D Model and automatically assign and export animations.
 - **[Battle-Road-Labs/3D-Tiles-For-Godot](https://github.com/Battle-Road-Labs/3D-Tiles-For-Godot)** - 3D tiles support for Godot as GDExtension and Engine submodule. 
+- **[MajorMcDoom/cozy-cube-godot-addons](https://codeberg.org/MajorMcDoom/cozy-cube-godot-addons.git)** - Godot addons from Cozy Cube Games
       
 ## 3D Physics
 
