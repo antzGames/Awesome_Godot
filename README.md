@@ -14,7 +14,7 @@ A curated list of awesome Godot stuff.
 - **[98teg/SpriteMesh](https://github.com/98teg/SpriteMesh)** - SpriteMesh is a plugin for Godot that allows you to create 3D meshes based on a 2D sprite.
 - **[iiMidknightii/PathMesh3D](https://github.com/iiMidknightii/PathMesh3D)** - A set of simple Godot 3D nodes for extruding, tiling, and instancing 3D meshes along a path. Implemented as a C++ GDExtension.
 - **[Eneskp3441/Shaker](https://github.com/Eneskp3441/Shaker)** - Shake plugin for Godot.
-- **[Brackeys/brackeys-particle-controls](https://github.com/Brackeys/brackeys-particle-controls)** - Properly preview Particles in the Godot Editor.stars
+- **[Brackeys/brackeys-particle-controls](https://github.com/Brackeys/brackeys-particle-controls)** - Properly preview Particles in the Godot Editor
 - **[andersmmg/Planet-Generator](https://github.com/andersmmg/Planet-Generator)** - A procedural planet generator addon for Godot with terrain LOD.
 - **[bukkbeek/GodotPixelRenderer](https://github.com/bukkbeek/GodotPixelRenderer)** - Complete 3D to Pixel Toolkit [Built using Godot Engine].
 - **[scottpetrovic/mesh2motion-app](https://github.com/scottpetrovic/mesh2motion-app)** - Import a 3D Model and automatically assign and export animations.
@@ -36,7 +36,7 @@ A curated list of awesome Godot stuff.
 ## GUI/UI
 - **[tavurth/godot-radial-menu](https://github.com/tavurth/godot-radial-menu)** - A radial menu for Godot, supports Mobile & Desktop.
 - **[martinfuchs/Godot-Onscreen-Keyboard](https://github.com/martinfuchs/Godot-Onscreen-Keyboard)** - Onscreen Keyboard Plugin for Godot Engine.
-- **[LesusX/Progress-bar-shader](https://github.com/LesusX/Progress-bar-shader)** - A flexible and quick to use progress bar shader for Godot 4.x.stars
+- **[LesusX/Progress-bar-shader](https://github.com/LesusX/Progress-bar-shader)** - A flexible and quick to use progress bar shader for Godot 4.x
 - **[xZpookyx/StyleBoxFancy](https://github.com/xZpookyx/StyleBoxFancy)** - A plugin for Godot that allows for more complex and visually attractive panel designs without creating textures.
     
 ## Other Tools
