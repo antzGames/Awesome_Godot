@@ -10,6 +10,7 @@ A curated list of awesome Godot stuff.
 
 ## 3D Effects
 
+- **[cloudofoz/godot-smashthemesh](https://github.com/cloudofoz/godot-smashthemesh)** - Smash The Mesh (STM) is a Godot add-on that allows you to break 3D meshes into multiple pieces and apply physics to each fragment.
 - **[98teg/SpriteMesh](https://github.com/98teg/SpriteMesh)** - SpriteMesh is a plugin for Godot that allows you to create 3D meshes based on a 2D sprite.
 - **[iiMidknightii/PathMesh3D](https://github.com/iiMidknightii/PathMesh3D)** - A set of simple Godot 3D nodes for extruding, tiling, and instancing 3D meshes along a path. Implemented as a C++ GDExtension.
 - **[Eneskp3441/Shaker](https://github.com/Eneskp3441/Shaker)** - Shake plugin for Godot.
