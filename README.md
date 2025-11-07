@@ -3,6 +3,7 @@ A curated list of awesome Godot stuff.
 
 ## 3D Terrain/World
 
+- **[IcterusGames/SimpleGrassTextured](https://github.com/IcterusGames/SimpleGrassTextured)** - Plugin to make grass on Godot 4
 - **[HungryProton/scatter](https://github.com/HungryProton/scatter)** - Godot engine addon to randomly fill an area with props or other scenes
 - **[TheDuckCow/godot-road-generator](https://github.com/TheDuckCow/godot-road-generator)** - A Godot plugin for creating 3D highways and streets.
 - **[DigitallyTailored/Godot-Open-World-Database](https://github.com/DigitallyTailored/Godot-Open-World-Database)** - Godot addon for efficient open world streaming - automatically chunks and loads/unloads scene content based on camera position to handle massive worlds.
