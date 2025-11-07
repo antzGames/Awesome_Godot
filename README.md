@@ -10,6 +10,7 @@ A curated list of awesome Godot stuff.
 
 ## 3D Effects
 
+- **[98teg/SpriteMesh](https://github.com/98teg/SpriteMesh)** - SpriteMesh is a plugin for Godot that allows you to create 3D meshes based on a 2D sprite.
 - **[iiMidknightii/PathMesh3D](https://github.com/iiMidknightii/PathMesh3D)** - A set of simple Godot 3D nodes for extruding, tiling, and instancing 3D meshes along a path. Implemented as a C++ GDExtension.
 - **[Eneskp3441/Shaker](https://github.com/Eneskp3441/Shaker)** - Shake plugin for Godot.
 - **[Brackeys/brackeys-particle-controls](https://github.com/Brackeys/brackeys-particle-controls)** - Properly preview Particles in the Godot Editor.stars
@@ -24,7 +25,7 @@ A curated list of awesome Godot stuff.
 - **[JorisAR/GDWaterKart](https://github.com/JorisAR/GDWaterKart)** - Water kart physics demo for Godot.
     
 ## Game Systems
-
+- **[limbonaut/limboai](https://github.com/limbonaut/limboai)** - Behavior Trees and State Machines for Godot 4
 - **[ShomyKohai/quest-system](https://github.com/ShomyKohai/quest-system)** - 
 📜 A simple, powerful and modular quest system for Godot 4
 - **[peter-kish/gloot](https://github.com/peter-kish/gloot)** - A universal inventory system for the Godot game engine.
