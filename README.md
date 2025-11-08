@@ -37,6 +37,7 @@ A curated list of awesome Godot stuff.
 - **[darkalardev/Godot-Tween-Orchestrator](https://github.com/darkalardev/Godot-Tween-Orchestrator)** - Tween Orchestrator is a utility designed to simplify animations in Godot.
 
 ## GUI/UI
+- **[murikistudio/simple-gui-transitions](https://github.com/murikistudio/simple-gui-transitions)** - Godot plugin to swap GUI menus elegantly.
 - **[tavurth/godot-radial-menu](https://github.com/tavurth/godot-radial-menu)** - A radial menu for Godot, supports Mobile & Desktop.
 - **[martinfuchs/Godot-Onscreen-Keyboard](https://github.com/martinfuchs/Godot-Onscreen-Keyboard)** - Onscreen Keyboard Plugin for Godot Engine.
 - **[LesusX/Progress-bar-shader](https://github.com/LesusX/Progress-bar-shader)** - A flexible and quick to use progress bar shader for Godot 4.x
